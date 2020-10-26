@@ -1,1 +1,1 @@
-# COMSW3134
+# COMSW3134 course projects from Fall 2018
