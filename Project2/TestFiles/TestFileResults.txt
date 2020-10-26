@@ -1,0 +1,6 @@
+Test1.java: 6: ), [
+Test2.java: Non-empty Stack: {, 1
+Test3.java: Correct
+Test4.java: 19: ], {
+Test5.java: 22: Empty
+Test6.java: Non-empty Stack: ", 3
