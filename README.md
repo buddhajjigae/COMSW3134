@@ -1,1 +1,1 @@
-# COMSW3134 course projects from Fall 2018
+COMSW3134 Data Structures course projects from Fall 2018
